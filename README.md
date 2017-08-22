@@ -27,8 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-Challenge 1
-<img src="http://i.imgur.com/aBjfIcp.gif" title="Challenge 1" />
+<a href="http://i.imgur.com/aBjfIcp.gifv" title="Challenge 1">
 Challenge 2
 <img src='http://i.imgur.com/l78f0vP.gifv' title='Challenge 2' width='' alt='Challenge 2' />
 Challenge 3
