@@ -27,13 +27,13 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://i.imgur.com/aBjfIcp" title="Challenge 1">Challenge 1</a>
-<a href="http://i.imgur.com/l78f0vP" title="Challenge 2">Challenge 2</a>
-<a href="http://i.imgur.com/pqzo0gO" title="Challenge 3">Challenge 3</a>
-<a href="http://i.imgur.com/j1TCoi0" title="Challenge 4">Challenge 4</a>
-<a href="http://i.imgur.com/IZrIkuJ" title="Challenge 5">Challenge 5</a>
-<a href="http://i.imgur.com/HdTynx2" title="Bonus 1">Bonus 1</a>
-<a href="http://i.imgur.com/pPt7KAE" title="Bonus 2">Bonus 2</a>
+<a href="http://i.imgur.com/aBjfIcp" title="Challenge 1">Challenge 1</a></br>
+<a href="http://i.imgur.com/l78f0vP" title="Challenge 2">Challenge 2</a></br>
+<a href="http://i.imgur.com/pqzo0gO" title="Challenge 3">Challenge 3</a></br>
+<a href="http://i.imgur.com/j1TCoi0" title="Challenge 4">Challenge 4</a></br>
+<a href="http://i.imgur.com/IZrIkuJ" title="Challenge 5">Challenge 5</a></br>
+<a href="http://i.imgur.com/HdTynx2" title="Bonus 1">Bonus 1</a></br>
+<a href="http://i.imgur.com/pPt7KAE" title="Bonus 2">Bonus 2</a></br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
