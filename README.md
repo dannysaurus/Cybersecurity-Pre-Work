@@ -12,16 +12,16 @@ The following **required** functionality is completed:
     -  [x]  Can successfully view HTTPS traffic in sa
     -  [x]  Register an account at security.shephard.com
   
-2. [ ]  Required: Challenge 1 - HTTP Headers
-3. [ ]  Required: Challenge 2 - Basic Routes 1
-4. [ ]  Required: Challenge 3 - Query Params 1
-5. [ ]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
-6. [ ]  Required: Challenge 5 - IDOR Challenge 1 
+2. [x]  Required: Challenge 1 - HTTP Headers
+3. [x]  Required: Challenge 2 - Basic Routes 1
+4. [x]  Required: Challenge 3 - Query Params 1
+5. [x]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
+6. [x]  Required: Challenge 5 - IDOR Challenge 1 
 
 The following advanced user stories are optional:
 
-* [ ]  Bonus 1: IDOR Challenge 2 
-* [ ]  Bonus 2: IDOR Bank Challenge 3
+* [x]  Bonus 1: IDOR Challenge 2 
+* [x]  Bonus 2: IDOR Bank Challenge 3
 
 ## Video Walkthrough
 
@@ -33,7 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
