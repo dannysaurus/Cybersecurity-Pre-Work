@@ -27,12 +27,19 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
+Challenge 1
 <img src="http://i.imgur.com/aBjfIcp.gif" title="Challenge 1" />
+Challenge 2
 <img src='http://i.imgur.com/l78f0vP.gifv' title='Challenge 2' width='' alt='Challenge 2' />
+Challenge 3
 <img src='http://i.imgur.com/pqzo0gO.gifv' title='Challenge 3' width='' alt='Challenge 3' />
+Challenge 4
 <img src='http://i.imgur.com/j1TCoi0.gifv' title='Challenge 4' width='' alt='Challenge 4' />
+Challenge 5
 <img src='http://i.imgur.com/IZrIkuJ.gifv' title='Challenge 5' width='' alt='Challenge 5' />
+Bonus 1
 <img src='http://i.imgur.com/HdTynx2.gifv' title='Bonus 1' width='' alt='Bonus 1' />
+Bonus 2
 <img src='http://i.imgur.com/pPt7KAE.gifv' title='Bonus 2' width='' alt='Bonus 2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
