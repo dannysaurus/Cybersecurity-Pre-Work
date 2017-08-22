@@ -1,16 +1,16 @@
 # Cybersecurity Pre-Work - megadan
 
-Time spent: 0 hours spent in total 
+Time spent: 5 hours spent in total 
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-1. [ ]  Required: Setup 
-    -  [ ]  Download and install Burp
-    -  [ ]  Configure your browser to direct traffic through Burp
-    -  [ ]  Can successfully view HTTPS traffic in sa
-    -  [ ]  Register an account at security.shephard.com
+1. [x]  Required: Setup 
+    -  [x]  Download and install Burp
+    -  [x]  Configure your browser to direct traffic through Burp
+    -  [x]  Can successfully view HTTPS traffic in sa
+    -  [x]  Register an account at security.shephard.com
   
 2. [ ]  Required: Challenge 1 - HTTP Headers
 3. [ ]  Required: Challenge 2 - Basic Routes 1
